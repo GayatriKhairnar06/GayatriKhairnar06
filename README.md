@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GayatriKhairnar06
 - 👀 I’m interested in upgrading myself with new technologies.
-- 🌱 I’m currently pursing CSE Data Science .degree through RCPIT,SHIRPUR.
+- 🌱 I’m currently pursing CSE Data Science degree through RCPIT,SHIRPUR.
 - 💞️ I’m looking to collaborate with companies.
 - 😄 Pronouns: SHE/her
 - ⚡ Fun fact: Curious to gain a knowledge 
